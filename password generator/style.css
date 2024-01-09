@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+.navbar {
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+  padding: 25px;
+  margin: left 25px;
+}
